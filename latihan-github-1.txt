@@ -4,3 +4,4 @@ Kali ini adalah latihan edit.
 Ini juga penambahan.
 Kita coba menghapus baris ke 2.
 Kali ini saya mencoba branch baru.
+Kali ini saya mencoba branch baru 2
