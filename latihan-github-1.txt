@@ -1,3 +1,5 @@
 Ini adalah latihan.
-Saya sedanng fokus belajar git & github.
+
 Kali ini adalah latihan edit.
+Ini juga penambahan.
+Kita coba menghapus baris ke 2.
